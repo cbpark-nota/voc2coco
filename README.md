@@ -16,7 +16,8 @@ xmllist.txt contain xml file names like this
 
 2. Use voc2coco.py to make .json file  
 Example command:  
+<pre><code>
 $ python voc2coco.py xmllist.txt path/of/VOCdevkit/VOC2012/Annotations output.json
-
+  </code></pre>
 # Acknowledgement
 https://github.com/shiyemin/voc2coco
